@@ -1,9 +1,0 @@
-[package]
-authors = ["Quan Tran <quan@shousio.com>"]
-edition = "2018"
-name = "ci-demo"
-version = "0.1.0"
-
-[dependencies]
-compiler-interrupts = {path = "../"}
-nanorand = "0.6"
